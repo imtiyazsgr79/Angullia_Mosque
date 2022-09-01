@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Angullia Mosque</string>
+    <string name="username">Username  <font color='#FF0000'>*</font></string>
+    <string name="password">Password  <font color='#FF0000'>*</font></string>
+    <string name="login">login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="costhint">Cost  <font color='#FF0000'>*</font></string>
+    <string name="date_in_service">Date In Service  <font color='#FF0000'>*</font></string>
+    <string name="user">User  <font color='#FF0000'>*</font></string>
+    <string name="life">Life <font color='#FF0000'>*</font></string>
+    <string name="expected_life_in_months">Expected Life in Months <font color='#FF0000'>*</font> </string>
+    <string name="date_of_acquisition">Date of Acquisition  <font color='#FF0000'>*</font></string>
+    <string name="contact_no">Contact No  <font color='#FF0000'>*</font></string>
+    <string name="equipment_type">Equipment Type   <font color='#FF0000'>*</font></string>
+    <string name="equipment_subtype">Equipment SubType   <font color='#FF0000'>*</font></string>
+    <string name="building">Building   <font color='#FF0000'>*</font></string>
+    <string name="location">Location   <font color='#FF0000'>*</font></string>
+    <string name="equipment_name">Equipment Name  <font color='#FF0000'>*</font></string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763446093711",
+    "project_id": "angullia-mosque",
+    "storage_bucket": "angullia-mosque.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763446093711:android:9680cb1b0fc112aac80dfa",
+        "android_client_info": {
+          "package_name": "com.sg.angulliamosque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763446093711-0qkh8hqc43n7ecrkehfltt3ang39fmua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcJLS4ZqFrrhhCciw4M4b0rKSy00HAtdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763446093711-0qkh8hqc43n7ecrkehfltt3ang39fmua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

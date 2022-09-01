@@ -1,0 +1,3 @@
+rootProject.name = "Angullia Mosque"
+include ':app'
+include ':ifarms'
